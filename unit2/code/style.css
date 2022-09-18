@@ -1,0 +1,47 @@
+/* Universal selector  */
+*{
+    font-family: monospace;
+    border : 1px solid red; /* it applies to all elements not because of inheritance but because universal element select all elements in an HTML file.*/
+}
+
+/* Element selector  */
+
+main{ /* same as body tag but does not include the main header tag */
+    font-size: 20px;
+}
+
+body {
+    font-size: 22px;
+    border: 3px solid black;
+}
+
+p{
+    color : purple;
+}
+
+
+/* List selector  */
+h1, h2{
+    color : blue;
+}
+
+/* child selector  */
+p span{
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+/* Class selector  */
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+}
+.gray{
+    color : gray;
+}
+
+/* id selector  */
+#second {
+    font-style: italic;
+}
+
