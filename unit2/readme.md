@@ -1,6 +1,6 @@
 # <center>Unit 2 - CSS Selector</center>
 
-CSS Selectors - CSS selectors define the elements to which a set of rules apply.\
+CSS Selectors - CSS selectors define the elements to which a set of rules apply.
 
 Types of selectors -:
 
