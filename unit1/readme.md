@@ -55,16 +55,3 @@ Every CSS Declaration have `property : value;` pair like structure.\
 _CSS uses mainly American spelling._\
 If you have any error in CSS file it just ignore it, unlike any other language it won't be throwing any error.
 So to check our CSS is valid or not we can use any CSS validator e.g. - [W3C world wide web consortium](https://jigsaw.w3.org/css-validator/)
-
-
-
-
-
-
-
-
-
-
-
-
-
